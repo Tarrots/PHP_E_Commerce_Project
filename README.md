@@ -1,6 +1,4 @@
-# web2general
- Web 2 PHP E-Commerce Project - SGU
-
+# PHP ECommerce Project
 
 Members:
 - Nguyễn Thương Mến
